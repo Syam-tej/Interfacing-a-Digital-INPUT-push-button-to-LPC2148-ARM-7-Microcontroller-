@@ -142,9 +142,10 @@ int main(void)
 
 
 ## LED ON:
+`` 
 
-
-##CIRCUIT DIAGRAM
+``
+## CIRCUIT DIAGRAM
 ![syy](https://user-images.githubusercontent.com/93427224/195165078-03f0a936-3a17-478c-a75a-1e9174682b6f.png)
 
 
