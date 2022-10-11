@@ -1,10 +1,5 @@
 # Interfacing-a-Digital-INPUT-push-button-to-LPC2148-ARM-7-Microcontroller-
-```
-Name :P.SYAM TEJ
-Roll no :212221240056
-Ex. No. : 3
-Date: 
- ```
+
 ### Aim: To Interface a Digital input (pushbutton ) to LPC2148 ARM 7 and write a code to switch on and of an LED 
 Components required: Proteus ISIS professional suite, Kiel μ vision 5 Development environment 
 ### Theory 
@@ -115,6 +110,10 @@ Step 9: Select the hex file from the Kiel program folder and import the program 
 
 
 ### Kiel - Program 
+```
+Name :P.SYAM TEJ
+Roll no :212221240056
+```
 ```
 #include <LPC214x.h>   // define LPC2148 Header file
 #define led (1<<2)     // led macro for pin 2 of port0
