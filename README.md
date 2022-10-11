@@ -142,9 +142,9 @@ int main(void)
 
 
 ## LED ON:
-`` 
+![WhatsApp Image 2022-10-11 at 11 42 39 PM](https://user-images.githubusercontent.com/93427224/195169052-8f2b7885-6b8d-4d43-a361-773db780412d.jpeg)
 
-``
+
 ## CIRCUIT DIAGRAM
 ![syy](https://user-images.githubusercontent.com/93427224/195165078-03f0a936-3a17-478c-a75a-1e9174682b6f.png)
 
