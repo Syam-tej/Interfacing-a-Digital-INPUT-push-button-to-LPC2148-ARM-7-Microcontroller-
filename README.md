@@ -110,10 +110,9 @@ Step 9: Select the hex file from the Kiel program folder and import the program 
 
 
 ### Kiel - Program 
-```
-Name :P.SYAM TEJ
-Roll no :212221240056
-```
+
+## Name: P.SYAM TEJ
+## Roll no: 212221240056
 ```
 #include <LPC214x.h>   // define LPC2148 Header file
 #define led (1<<2)     // led macro for pin 2 of port0
@@ -139,15 +138,14 @@ int main(void)
 ``` 
 # Output screen shots :
 ## LED OFF:
-![image](https://user-images.githubusercontent.com/94165326/194338066-78ec3758-b656-4a9a-bf7e-114286ddf088.png)
+![op s](https://user-images.githubusercontent.com/93427224/195165129-02256829-e592-41e4-872a-135718dd9080.png)
 
 
 ## LED ON:
-![image](https://user-images.githubusercontent.com/94165326/194338174-9dca61a4-b293-4cf4-851e-fa5539a97054.png)
 
 
 ##CIRCUIT DIAGRAM
-![image](https://user-images.githubusercontent.com/94165326/194338306-b9741e9b-8dcb-49fc-9ed5-12dbd06de44d.png)
+![syy](https://user-images.githubusercontent.com/93427224/195165078-03f0a936-3a17-478c-a75a-1e9174682b6f.png)
 
 
 
