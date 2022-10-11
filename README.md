@@ -1,9 +1,10 @@
 # Interfacing-a-Digital-INPUT-push-button-to-LPC2148-ARM-7-Microcontroller-
+```
 Name :P.SYAM TEJ
 Roll no :212221240056
 Ex. No. : 3
 Date: 
- 
+ ```
 ### Aim: To Interface a Digital input (pushbutton ) to LPC2148 ARM 7 and write a code to switch on and of an LED 
 Components required: Proteus ISIS professional suite, Kiel μ vision 5 Development environment 
 ### Theory 
